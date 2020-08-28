@@ -1,0 +1,23 @@
+{
+  "id": "2024838",
+  "name": "小米有品",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2535462",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "8553598",
+      "name": "小箭头",
+      "font_class": "arrow-right2",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
